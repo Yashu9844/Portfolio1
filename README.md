@@ -27,9 +27,9 @@ Hello there! 👋 I'm Yashavanth R Siddesh , the creator of this awesome Portfol
 
 ## Connect with Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/Yashu9844)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yashavanth-r-siddesh/)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/RSiddesh64742)
+- **GitHub:** [My GitHub Profile](https://github.com/Yashu9844)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/yashavanth-r-siddesh/)
+- **Twitter:** [@My-twitter-handle](https://twitter.com/RSiddesh64742)
 
 Feel free to reach out to me if you have questions, suggestions, or just want to chat about creating websites.
 
