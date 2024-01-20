@@ -3,15 +3,18 @@ Create a  portfolio website comprising of atleast a navbar, footer, and two
 main sections.
 
 
-# Portofolio 
-
-This portfolio showcases my work, incorporating smooth scrolling and GSAP animations for an engaging user experience. It's designed to highlight my projects and skills, providing visitors with an interactive glimpse into my creative and technical capabilities
 
 ## Deployment
 
 To deploy this project run
 
-The project is deployed and can be accessed [here](https://yashu9844.github.io/Portfolio1/).
+The project is deployed and can be accessed [Please Click Here](https://yashu9844.github.io/Portfolio1/).
+
+# Portofolio 
+
+This portfolio showcases my work, incorporating smooth scrolling and GSAP animations for an engaging user experience. It's designed to highlight my projects and skills, providing visitors with an interactive glimpse into my creative and technical capabilities
+
+
 
 
 ## Color Reference
