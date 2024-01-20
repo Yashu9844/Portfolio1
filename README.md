@@ -3,6 +3,13 @@
 
 This portfolio showcases my work, incorporating smooth scrolling and GSAP animations for an engaging user experience. It's designed to highlight my projects and skills, providing visitors with an interactive glimpse into my creative and technical capabilities
 
+## Deployment
+
+To deploy this project run
+
+The project is deployed and can be accessed [here](https://yashu9844.github.io/Portfolio1/).
+
+
 ## Color Reference
 
 | Color             | Hex                                                                |
@@ -20,9 +27,9 @@ Hello there! 👋 I'm Yashavanth R Siddesh , the creator of this awesome Portfol
 
 ## Connect with Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **GitHub:** [Your GitHub Profile](https://github.com/Yashu9844)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yashavanth-r-siddesh/)
+- **Twitter:** [@your-twitter-handle](https://twitter.com/RSiddesh64742)
 
 Feel free to reach out to me if you have questions, suggestions, or just want to chat about creating websites.
 
@@ -40,8 +47,4 @@ Javascript, HTML, CSS,Reactjs,REDUX,GSAP,DSA JAVA...
 ## Tech Stack
 
 HTML,CSS,JavaScript,GSAP,Locomotive
-## Deployment
 
-To deploy this project run
-
-The project is deployed and can be accessed [here](https://your-deployment-link.com).
